@@ -1,4 +1,4 @@
-# NeuralNetwork (handwriting)
+# NeuralNetwork (handwriting recognision)
  (recognision of handwritten digits)
 
 Это небольшая нейросеть, которая различает рукописные цифры. Была обучена на наборе данных MNIST (60000 тренировочных + 10000 тестовых).
